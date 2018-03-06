@@ -1,6 +1,6 @@
 public class dog {
-	public static main(String args[]){
+	public static void main(String[] args){
 
-		System.out("helloWorld");
+		System.out.println("helloWorld");
 	}
 }
